@@ -45,6 +45,7 @@ button {
 #clock,
 #battery,
 #pulseaudio,
+#bluetooth,
 #network,
 #cpu,
 #memory,
@@ -87,4 +88,8 @@ button {
 
 #custom-lock {
   color: #babbf1;
+}
+
+#bluetooth {
+  color: #0082fc;
 }
