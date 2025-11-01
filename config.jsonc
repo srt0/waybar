@@ -6,13 +6,13 @@
   "modules-center": ["clock"],
 
   "modules-right": [
+    "tray",
     "pulseaudio",
     "battery",
     "network",
     "bluetooth",
     "cpu",
-    "memory",
-    "tray"
+    "memory"
   ],
 
   "hyprland/workspaces": {
