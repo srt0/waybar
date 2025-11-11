@@ -19,6 +19,7 @@
   margin: 5px;
   background: #101010;
   margin-left: 2px;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 #workspaces button {
@@ -52,8 +53,9 @@ button {
 #memory,
 #custom-lock {
   background-color: #101010;
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 0.5rem 1rem;
-  margin: 4px 0;
+  margin: 5px 0;
 }
 
 #clock {
