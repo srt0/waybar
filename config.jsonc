@@ -31,7 +31,7 @@
 
   "clock": {
     "timezone": "Asia/Dhaka",
-    "format": "{:%H:%M:%S}",
+    "format": "{:%H:%M}",
     "format-alt": "{:%A, %d %B %Y}",
     "tooltip": false,
     "interval": 1
